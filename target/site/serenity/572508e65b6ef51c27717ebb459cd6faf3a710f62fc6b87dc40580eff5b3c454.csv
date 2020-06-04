@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Virgin bingo test","Verifying That All the Games Contains Only DefaultGameFrequency=300000","SUCCESS","2020-06-04T15:59:57.628+01:00[Europe/London]","0.0","14.59"
+"Virgin bingo test","Verifying That the value of defaultGameFrequency=300000","SUCCESS","2020-06-04T16:00:12.988+01:00[Europe/London]","0.0","0.86"
+"Virgin bingo test","Verifying That the startTime is always future timeStamp","SUCCESS","2020-06-04T16:00:13.854+01:00[Europe/London]","0.0","0.89"
